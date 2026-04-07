@@ -1,0 +1,3971 @@
+[
+  {
+    "frame": 30,
+    "timestamp_sec": 0.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.27,
+    "bbox": [
+      427,
+      190,
+      1961,
+      622
+    ],
+    "region_scores": {
+      "top": 1.65,
+      "mid": 2.37,
+      "bot": 2.81
+    }
+  },
+  {
+    "frame": 40,
+    "timestamp_sec": 0.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.32,
+    "bbox": [
+      427,
+      190,
+      1961,
+      622
+    ],
+    "region_scores": {
+      "top": 1.75,
+      "mid": 2.38,
+      "bot": 2.83
+    }
+  },
+  {
+    "frame": 50,
+    "timestamp_sec": 1.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.73,
+    "bbox": [
+      291,
+      178,
+      1982,
+      633
+    ],
+    "region_scores": {
+      "top": 1.24,
+      "mid": 1.86,
+      "bot": 2.09
+    }
+  },
+  {
+    "frame": 60,
+    "timestamp_sec": 1.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.51,
+    "bbox": [
+      357,
+      160,
+      1936,
+      634
+    ],
+    "region_scores": {
+      "top": 0.44,
+      "mid": 0.54,
+      "bot": 0.56
+    }
+  },
+  {
+    "frame": 70,
+    "timestamp_sec": 1.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.5,
+    "bbox": [
+      288,
+      180,
+      1990,
+      623
+    ],
+    "region_scores": {
+      "top": 0.53,
+      "mid": 0.49,
+      "bot": 0.49
+    }
+  },
+  {
+    "frame": 80,
+    "timestamp_sec": 1.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 0.41,
+    "bbox": [
+      296,
+      171,
+      1984,
+      621
+    ],
+    "region_scores": {
+      "top": 0.39,
+      "mid": 0.4,
+      "bot": 0.46
+    }
+  },
+  {
+    "frame": 90,
+    "timestamp_sec": 1.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.48,
+    "bbox": [
+      291,
+      174,
+      1971,
+      618
+    ],
+    "region_scores": {
+      "top": 0.55,
+      "mid": 0.44,
+      "bot": 0.44
+    }
+  },
+  {
+    "frame": 100,
+    "timestamp_sec": 2.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.59,
+    "bbox": [
+      298,
+      172,
+      1971,
+      622
+    ],
+    "region_scores": {
+      "top": 0.75,
+      "mid": 0.5,
+      "bot": 0.53
+    }
+  },
+  {
+    "frame": 110,
+    "timestamp_sec": 2.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 0.7,
+    "bbox": [
+      202,
+      163,
+      1665,
+      622
+    ],
+    "region_scores": {
+      "top": 0.43,
+      "mid": 0.7,
+      "bot": 0.96
+    }
+  },
+  {
+    "frame": 120,
+    "timestamp_sec": 2.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 0.57,
+    "bbox": [
+      298,
+      158,
+      1975,
+      622
+    ],
+    "region_scores": {
+      "top": 0.49,
+      "mid": 0.57,
+      "bot": 0.66
+    }
+  },
+  {
+    "frame": 130,
+    "timestamp_sec": 2.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.59,
+    "bbox": [
+      288,
+      165,
+      1978,
+      624
+    ],
+    "region_scores": {
+      "top": 0.5,
+      "mid": 0.56,
+      "bot": 0.72
+    }
+  },
+  {
+    "frame": 140,
+    "timestamp_sec": 2.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.05,
+    "bbox": [
+      282,
+      164,
+      1955,
+      624
+    ],
+    "region_scores": {
+      "top": 0.7,
+      "mid": 1.11,
+      "bot": 1.32
+    }
+  },
+  {
+    "frame": 150,
+    "timestamp_sec": 3.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.27,
+    "bbox": [
+      279,
+      169,
+      1955,
+      635
+    ],
+    "region_scores": {
+      "top": 1.08,
+      "mid": 1.25,
+      "bot": 1.49
+    }
+  },
+  {
+    "frame": 160,
+    "timestamp_sec": 3.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.12,
+    "bbox": [
+      170,
+      145,
+      1956,
+      631
+    ],
+    "region_scores": {
+      "top": 0.87,
+      "mid": 1.14,
+      "bot": 1.36
+    }
+  },
+  {
+    "frame": 180,
+    "timestamp_sec": 3.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.1,
+    "bbox": [
+      187,
+      111,
+      1503,
+      617
+    ],
+    "region_scores": {
+      "top": 0.88,
+      "mid": 1.06,
+      "bot": 1.36
+    }
+  },
+  {
+    "frame": 190,
+    "timestamp_sec": 3.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.93,
+    "bbox": [
+      145,
+      96,
+      1491,
+      614
+    ],
+    "region_scores": {
+      "top": 0.73,
+      "mid": 0.93,
+      "bot": 1.13
+    }
+  },
+  {
+    "frame": 200,
+    "timestamp_sec": 4.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 0.85,
+    "bbox": [
+      140,
+      80,
+      1674,
+      624
+    ],
+    "region_scores": {
+      "top": 0.73,
+      "mid": 0.82,
+      "bot": 0.99
+    }
+  },
+  {
+    "frame": 210,
+    "timestamp_sec": 4.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.69,
+    "bbox": [
+      131,
+      49,
+      1967,
+      656
+    ],
+    "region_scores": {
+      "top": 0.59,
+      "mid": 0.63,
+      "bot": 0.83
+    }
+  },
+  {
+    "frame": 220,
+    "timestamp_sec": 4.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.51,
+    "bbox": [
+      126,
+      29,
+      1947,
+      648
+    ],
+    "region_scores": {
+      "top": 0.52,
+      "mid": 0.42,
+      "bot": 0.59
+    }
+  },
+  {
+    "frame": 250,
+    "timestamp_sec": 5.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 1.84,
+    "bbox": [
+      122,
+      10,
+      1541,
+      683
+    ],
+    "region_scores": {
+      "top": 0.84,
+      "mid": 1.88,
+      "bot": 2.79
+    }
+  },
+  {
+    "frame": 270,
+    "timestamp_sec": 5.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.79,
+    "bbox": [
+      177,
+      43,
+      1326,
+      749
+    ],
+    "region_scores": {
+      "top": 0.99,
+      "mid": 1.71,
+      "bot": 2.67
+    }
+  },
+  {
+    "frame": 280,
+    "timestamp_sec": 5.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.72,
+    "bbox": [
+      188,
+      59,
+      1256,
+      801
+    ],
+    "region_scores": {
+      "top": 1.06,
+      "mid": 1.7,
+      "bot": 2.41
+    }
+  },
+  {
+    "frame": 290,
+    "timestamp_sec": 5.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.75,
+    "bbox": [
+      222,
+      68,
+      1274,
+      832
+    ],
+    "region_scores": {
+      "top": 1.04,
+      "mid": 1.7,
+      "bot": 2.51
+    }
+  },
+  {
+    "frame": 300,
+    "timestamp_sec": 6.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.72,
+    "bbox": [
+      254,
+      69,
+      1311,
+      860
+    ],
+    "region_scores": {
+      "top": 1.1,
+      "mid": 1.66,
+      "bot": 2.38
+    }
+  },
+  {
+    "frame": 310,
+    "timestamp_sec": 6.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.76,
+    "bbox": [
+      258,
+      71,
+      1310,
+      846
+    ],
+    "region_scores": {
+      "top": 1.2,
+      "mid": 1.79,
+      "bot": 2.3
+    }
+  },
+  {
+    "frame": 320,
+    "timestamp_sec": 6.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.92,
+    "bbox": [
+      284,
+      70,
+      1305,
+      929
+    ],
+    "region_scores": {
+      "top": 1.48,
+      "mid": 1.99,
+      "bot": 2.28
+    }
+  },
+  {
+    "frame": 330,
+    "timestamp_sec": 6.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.77,
+    "bbox": [
+      323,
+      60,
+      1317,
+      899
+    ],
+    "region_scores": {
+      "top": 1.28,
+      "mid": 1.86,
+      "bot": 2.15
+    }
+  },
+  {
+    "frame": 340,
+    "timestamp_sec": 6.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.81,
+    "bbox": [
+      369,
+      65,
+      1327,
+      975
+    ],
+    "region_scores": {
+      "top": 1.23,
+      "mid": 1.86,
+      "bot": 2.35
+    }
+  },
+  {
+    "frame": 350,
+    "timestamp_sec": 7.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.67,
+    "bbox": [
+      379,
+      52,
+      1277,
+      865
+    ],
+    "region_scores": {
+      "top": 1.14,
+      "mid": 1.72,
+      "bot": 2.16
+    }
+  },
+  {
+    "frame": 360,
+    "timestamp_sec": 7.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.77,
+    "bbox": [
+      403,
+      53,
+      1248,
+      939
+    ],
+    "region_scores": {
+      "top": 1.14,
+      "mid": 1.94,
+      "bot": 2.21
+    }
+  },
+  {
+    "frame": 370,
+    "timestamp_sec": 7.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.85,
+    "bbox": [
+      440,
+      60,
+      1260,
+      1081
+    ],
+    "region_scores": {
+      "top": 1.08,
+      "mid": 2.06,
+      "bot": 2.41
+    }
+  },
+  {
+    "frame": 380,
+    "timestamp_sec": 7.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.92,
+    "bbox": [
+      457,
+      57,
+      1150,
+      998
+    ],
+    "region_scores": {
+      "top": 1.15,
+      "mid": 2.36,
+      "bot": 2.26
+    }
+  },
+  {
+    "frame": 390,
+    "timestamp_sec": 7.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.28,
+    "bbox": [
+      535,
+      56,
+      1031,
+      775
+    ],
+    "region_scores": {
+      "top": 1.39,
+      "mid": 2.3,
+      "bot": 3.12
+    }
+  },
+  {
+    "frame": 400,
+    "timestamp_sec": 8.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.27,
+    "bbox": [
+      534,
+      47,
+      1060,
+      1062
+    ],
+    "region_scores": {
+      "top": 1.43,
+      "mid": 2.98,
+      "bot": 2.4
+    }
+  },
+  {
+    "frame": 410,
+    "timestamp_sec": 8.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.44,
+    "bbox": [
+      553,
+      68,
+      974,
+      776
+    ],
+    "region_scores": {
+      "top": 1.31,
+      "mid": 2.45,
+      "bot": 3.55
+    }
+  },
+  {
+    "frame": 420,
+    "timestamp_sec": 8.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.42,
+    "bbox": [
+      598,
+      65,
+      995,
+      821
+    ],
+    "region_scores": {
+      "top": 1.29,
+      "mid": 2.55,
+      "bot": 3.43
+    }
+  },
+  {
+    "frame": 430,
+    "timestamp_sec": 8.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.52,
+    "bbox": [
+      652,
+      69,
+      1057,
+      1077
+    ],
+    "region_scores": {
+      "top": 1.34,
+      "mid": 3.49,
+      "bot": 2.72
+    }
+  },
+  {
+    "frame": 440,
+    "timestamp_sec": 8.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.86,
+    "bbox": [
+      697,
+      79,
+      1010,
+      810
+    ],
+    "region_scores": {
+      "top": 1.6,
+      "mid": 2.7,
+      "bot": 4.28
+    }
+  },
+  {
+    "frame": 450,
+    "timestamp_sec": 9.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.62,
+    "bbox": [
+      718,
+      92,
+      1128,
+      1103
+    ],
+    "region_scores": {
+      "top": 1.45,
+      "mid": 3.59,
+      "bot": 2.82
+    }
+  },
+  {
+    "frame": 460,
+    "timestamp_sec": 9.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.21,
+    "bbox": [
+      694,
+      133,
+      1164,
+      1044
+    ],
+    "region_scores": {
+      "top": 1.3,
+      "mid": 2.67,
+      "bot": 2.65
+    }
+  },
+  {
+    "frame": 470,
+    "timestamp_sec": 9.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.7,
+    "bbox": [
+      623,
+      121,
+      1202,
+      1068
+    ],
+    "region_scores": {
+      "top": 0.93,
+      "mid": 1.99,
+      "bot": 2.18
+    }
+  },
+  {
+    "frame": 480,
+    "timestamp_sec": 9.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.5,
+    "bbox": [
+      590,
+      130,
+      1229,
+      1063
+    ],
+    "region_scores": {
+      "top": 0.7,
+      "mid": 1.58,
+      "bot": 2.22
+    }
+  },
+  {
+    "frame": 490,
+    "timestamp_sec": 9.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.39,
+    "bbox": [
+      550,
+      135,
+      1266,
+      1069
+    ],
+    "region_scores": {
+      "top": 0.48,
+      "mid": 1.34,
+      "bot": 2.32
+    }
+  },
+  {
+    "frame": 500,
+    "timestamp_sec": 10.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.1,
+    "bbox": [
+      481,
+      141,
+      1283,
+      1072
+    ],
+    "region_scores": {
+      "top": 0.34,
+      "mid": 0.89,
+      "bot": 2.06
+    }
+  },
+  {
+    "frame": 510,
+    "timestamp_sec": 10.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.18,
+    "bbox": [
+      504,
+      159,
+      1293,
+      1050
+    ],
+    "region_scores": {
+      "top": 0.4,
+      "mid": 1.04,
+      "bot": 2.1
+    }
+  },
+  {
+    "frame": 520,
+    "timestamp_sec": 10.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.19,
+    "bbox": [
+      456,
+      151,
+      1309,
+      1068
+    ],
+    "region_scores": {
+      "top": 0.45,
+      "mid": 1.08,
+      "bot": 2.04
+    }
+  },
+  {
+    "frame": 530,
+    "timestamp_sec": 10.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 1.14,
+    "bbox": [
+      398,
+      150,
+      1322,
+      1071
+    ],
+    "region_scores": {
+      "top": 0.47,
+      "mid": 1.12,
+      "bot": 1.82
+    }
+  },
+  {
+    "frame": 540,
+    "timestamp_sec": 10.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 1.28,
+    "bbox": [
+      358,
+      146,
+      1338,
+      1075
+    ],
+    "region_scores": {
+      "top": 0.46,
+      "mid": 1.35,
+      "bot": 2.02
+    }
+  },
+  {
+    "frame": 550,
+    "timestamp_sec": 11.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 1.21,
+    "bbox": [
+      298,
+      148,
+      1344,
+      1051
+    ],
+    "region_scores": {
+      "top": 0.38,
+      "mid": 1.21,
+      "bot": 2.03
+    }
+  },
+  {
+    "frame": 560,
+    "timestamp_sec": 11.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.99,
+    "bbox": [
+      273,
+      148,
+      1366,
+      1063
+    ],
+    "region_scores": {
+      "top": 0.35,
+      "mid": 1.2,
+      "bot": 1.42
+    }
+  },
+  {
+    "frame": 570,
+    "timestamp_sec": 11.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.98,
+    "bbox": [
+      257,
+      139,
+      1362,
+      1066
+    ],
+    "region_scores": {
+      "top": 0.32,
+      "mid": 1.42,
+      "bot": 1.19
+    }
+  },
+  {
+    "frame": 580,
+    "timestamp_sec": 11.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.9,
+    "bbox": [
+      213,
+      129,
+      1377,
+      1076
+    ],
+    "region_scores": {
+      "top": 0.26,
+      "mid": 1.38,
+      "bot": 1.07
+    }
+  },
+  {
+    "frame": 590,
+    "timestamp_sec": 11.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.9,
+    "bbox": [
+      219,
+      129,
+      1410,
+      1079
+    ],
+    "region_scores": {
+      "top": 0.2,
+      "mid": 1.52,
+      "bot": 0.99
+    }
+  },
+  {
+    "frame": 600,
+    "timestamp_sec": 12.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.74,
+    "bbox": [
+      211,
+      126,
+      1413,
+      1077
+    ],
+    "region_scores": {
+      "top": 0.16,
+      "mid": 1.03,
+      "bot": 1.02
+    }
+  },
+  {
+    "frame": 610,
+    "timestamp_sec": 12.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.63,
+    "bbox": [
+      208,
+      115,
+      1417,
+      1092
+    ],
+    "region_scores": {
+      "top": 0.34,
+      "mid": 0.48,
+      "bot": 1.1
+    }
+  },
+  {
+    "frame": 620,
+    "timestamp_sec": 12.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 1.08,
+    "bbox": [
+      213,
+      111,
+      1413,
+      1093
+    ],
+    "region_scores": {
+      "top": 0.48,
+      "mid": 1.39,
+      "bot": 1.36
+    }
+  },
+  {
+    "frame": 630,
+    "timestamp_sec": 12.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.88,
+    "bbox": [
+      227,
+      113,
+      1340,
+      1090
+    ],
+    "region_scores": {
+      "top": 0.32,
+      "mid": 0.9,
+      "bot": 1.44
+    }
+  },
+  {
+    "frame": 640,
+    "timestamp_sec": 12.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.73,
+    "bbox": [
+      244,
+      119,
+      1376,
+      1093
+    ],
+    "region_scores": {
+      "top": 0.27,
+      "mid": 2.35,
+      "bot": 2.6
+    }
+  },
+  {
+    "frame": 650,
+    "timestamp_sec": 13.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.44,
+    "bbox": [
+      288,
+      126,
+      1126,
+      1074
+    ],
+    "region_scores": {
+      "top": 1.09,
+      "mid": 1.89,
+      "bot": 1.35
+    }
+  },
+  {
+    "frame": 660,
+    "timestamp_sec": 13.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 1.87,
+    "bbox": [
+      251,
+      98,
+      1374,
+      1084
+    ],
+    "region_scores": {
+      "top": 0.88,
+      "mid": 2.61,
+      "bot": 2.11
+    }
+  },
+  {
+    "frame": 670,
+    "timestamp_sec": 13.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 1.69,
+    "bbox": [
+      365,
+      90,
+      1387,
+      1086
+    ],
+    "region_scores": {
+      "top": 1.13,
+      "mid": 2.28,
+      "bot": 1.66
+    }
+  },
+  {
+    "frame": 680,
+    "timestamp_sec": 13.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.31,
+    "bbox": [
+      430,
+      79,
+      1381,
+      1080
+    ],
+    "region_scores": {
+      "top": 0.74,
+      "mid": 1.19,
+      "bot": 2.0
+    }
+  },
+  {
+    "frame": 690,
+    "timestamp_sec": 13.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.67,
+    "bbox": [
+      439,
+      67,
+      1366,
+      1091
+    ],
+    "region_scores": {
+      "top": 1.33,
+      "mid": 2.03,
+      "bot": 1.64
+    }
+  },
+  {
+    "frame": 700,
+    "timestamp_sec": 14.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.08,
+    "bbox": [
+      433,
+      74,
+      1329,
+      1079
+    ],
+    "region_scores": {
+      "top": 1.76,
+      "mid": 2.75,
+      "bot": 1.73
+    }
+  },
+  {
+    "frame": 710,
+    "timestamp_sec": 14.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.68,
+    "bbox": [
+      499,
+      62,
+      1289,
+      1100
+    ],
+    "region_scores": {
+      "top": 2.28,
+      "mid": 3.69,
+      "bot": 2.03
+    }
+  },
+  {
+    "frame": 720,
+    "timestamp_sec": 14.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 3.65,
+    "bbox": [
+      530,
+      46,
+      1212,
+      1094
+    ],
+    "region_scores": {
+      "top": 3.0,
+      "mid": 5.72,
+      "bot": 2.19
+    }
+  },
+  {
+    "frame": 730,
+    "timestamp_sec": 14.6,
+    "equipment_id": "wheel loader_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 5.71,
+    "bbox": [
+      580,
+      27,
+      1095,
+      666
+    ],
+    "region_scores": {
+      "top": 1.34,
+      "mid": 7.42,
+      "bot": 8.34
+    }
+  },
+  {
+    "frame": 740,
+    "timestamp_sec": 14.8,
+    "equipment_id": "wheel loader_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 4.94,
+    "bbox": [
+      527,
+      45,
+      944,
+      442
+    ],
+    "region_scores": {
+      "top": 1.7,
+      "mid": 3.0,
+      "bot": 10.05
+    }
+  },
+  {
+    "frame": 750,
+    "timestamp_sec": 15.0,
+    "equipment_id": "wheel loader_4",
+    "equipment_label": "wheel loader",
+    "confidence": 0.99,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.83,
+    "bbox": [
+      647,
+      814,
+      1905,
+      1081
+    ],
+    "region_scores": {
+      "top": 1.23,
+      "mid": 3.82,
+      "bot": 3.41
+    }
+  },
+  {
+    "frame": 760,
+    "timestamp_sec": 15.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 3.41,
+    "bbox": [
+      195,
+      43,
+      978,
+      1103
+    ],
+    "region_scores": {
+      "top": 1.74,
+      "mid": 5.49,
+      "bot": 2.98
+    }
+  },
+  {
+    "frame": 770,
+    "timestamp_sec": 15.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 3.15,
+    "bbox": [
+      178,
+      75,
+      1231,
+      1095
+    ],
+    "region_scores": {
+      "top": 1.51,
+      "mid": 3.11,
+      "bot": 4.91
+    }
+  },
+  {
+    "frame": 780,
+    "timestamp_sec": 15.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 3.81,
+    "bbox": [
+      260,
+      129,
+      1472,
+      1089
+    ],
+    "region_scores": {
+      "top": 1.98,
+      "mid": 3.37,
+      "bot": 6.15
+    }
+  },
+  {
+    "frame": 790,
+    "timestamp_sec": 15.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 3.44,
+    "bbox": [
+      371,
+      152,
+      1582,
+      1085
+    ],
+    "region_scores": {
+      "top": 1.84,
+      "mid": 2.7,
+      "bot": 5.79
+    }
+  },
+  {
+    "frame": 800,
+    "timestamp_sec": 16.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.19,
+    "bbox": [
+      418,
+      183,
+      1882,
+      1070
+    ],
+    "region_scores": {
+      "top": 0.95,
+      "mid": 1.51,
+      "bot": 4.1
+    }
+  },
+  {
+    "frame": 810,
+    "timestamp_sec": 16.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.32,
+    "bbox": [
+      449,
+      197,
+      1891,
+      1064
+    ],
+    "region_scores": {
+      "top": 1.05,
+      "mid": 1.55,
+      "bot": 4.34
+    }
+  },
+  {
+    "frame": 820,
+    "timestamp_sec": 16.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.54,
+    "bbox": [
+      463,
+      203,
+      1916,
+      1074
+    ],
+    "region_scores": {
+      "top": 1.19,
+      "mid": 1.9,
+      "bot": 4.51
+    }
+  },
+  {
+    "frame": 830,
+    "timestamp_sec": 16.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.42,
+    "bbox": [
+      504,
+      200,
+      1950,
+      1048
+    ],
+    "region_scores": {
+      "top": 1.07,
+      "mid": 1.86,
+      "bot": 4.31
+    }
+  },
+  {
+    "frame": 840,
+    "timestamp_sec": 16.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.11,
+    "bbox": [
+      541,
+      192,
+      1945,
+      1086
+    ],
+    "region_scores": {
+      "top": 0.85,
+      "mid": 1.89,
+      "bot": 3.61
+    }
+  },
+  {
+    "frame": 850,
+    "timestamp_sec": 17.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.05,
+    "bbox": [
+      538,
+      203,
+      1926,
+      1069
+    ],
+    "region_scores": {
+      "top": 0.81,
+      "mid": 1.92,
+      "bot": 3.4
+    }
+  },
+  {
+    "frame": 860,
+    "timestamp_sec": 17.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.99,
+    "bbox": [
+      544,
+      208,
+      1923,
+      1065
+    ],
+    "region_scores": {
+      "top": 1.06,
+      "mid": 1.74,
+      "bot": 3.16
+    }
+  },
+  {
+    "frame": 870,
+    "timestamp_sec": 17.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.9,
+    "bbox": [
+      590,
+      215,
+      1910,
+      1021
+    ],
+    "region_scores": {
+      "top": 1.11,
+      "mid": 1.74,
+      "bot": 2.86
+    }
+  },
+  {
+    "frame": 880,
+    "timestamp_sec": 17.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.78,
+    "bbox": [
+      558,
+      200,
+      1928,
+      1039
+    ],
+    "region_scores": {
+      "top": 1.03,
+      "mid": 1.55,
+      "bot": 2.74
+    }
+  },
+  {
+    "frame": 890,
+    "timestamp_sec": 17.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.57,
+    "bbox": [
+      564,
+      195,
+      1916,
+      1006
+    ],
+    "region_scores": {
+      "top": 0.84,
+      "mid": 1.39,
+      "bot": 2.47
+    }
+  },
+  {
+    "frame": 900,
+    "timestamp_sec": 18.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.45,
+    "bbox": [
+      546,
+      188,
+      1924,
+      999
+    ],
+    "region_scores": {
+      "top": 0.68,
+      "mid": 1.37,
+      "bot": 2.28
+    }
+  },
+  {
+    "frame": 910,
+    "timestamp_sec": 18.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.38,
+    "bbox": [
+      557,
+      203,
+      1915,
+      991
+    ],
+    "region_scores": {
+      "top": 0.64,
+      "mid": 1.33,
+      "bot": 2.17
+    }
+  },
+  {
+    "frame": 920,
+    "timestamp_sec": 18.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.4,
+    "bbox": [
+      494,
+      208,
+      1923,
+      996
+    ],
+    "region_scores": {
+      "top": 0.69,
+      "mid": 1.36,
+      "bot": 2.13
+    }
+  },
+  {
+    "frame": 930,
+    "timestamp_sec": 18.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.3,
+    "bbox": [
+      582,
+      223,
+      1923,
+      928
+    ],
+    "region_scores": {
+      "top": 0.72,
+      "mid": 1.26,
+      "bot": 1.89
+    }
+  },
+  {
+    "frame": 940,
+    "timestamp_sec": 18.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.1,
+    "bbox": [
+      447,
+      215,
+      1933,
+      989
+    ],
+    "region_scores": {
+      "top": 0.66,
+      "mid": 1.12,
+      "bot": 1.51
+    }
+  },
+  {
+    "frame": 950,
+    "timestamp_sec": 19.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.96,
+    "bbox": [
+      411,
+      228,
+      1926,
+      991
+    ],
+    "region_scores": {
+      "top": 0.7,
+      "mid": 0.91,
+      "bot": 1.26
+    }
+  },
+  {
+    "frame": 960,
+    "timestamp_sec": 19.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.84,
+    "bbox": [
+      396,
+      231,
+      1907,
+      989
+    ],
+    "region_scores": {
+      "top": 0.64,
+      "mid": 0.8,
+      "bot": 1.06
+    }
+  },
+  {
+    "frame": 970,
+    "timestamp_sec": 19.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.69,
+    "bbox": [
+      402,
+      235,
+      1922,
+      989
+    ],
+    "region_scores": {
+      "top": 0.64,
+      "mid": 0.64,
+      "bot": 0.78
+    }
+  },
+  {
+    "frame": 980,
+    "timestamp_sec": 19.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.62,
+    "bbox": [
+      416,
+      233,
+      1921,
+      975
+    ],
+    "region_scores": {
+      "top": 0.51,
+      "mid": 0.57,
+      "bot": 0.78
+    }
+  },
+  {
+    "frame": 990,
+    "timestamp_sec": 19.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.67,
+    "bbox": [
+      403,
+      213,
+      1918,
+      909
+    ],
+    "region_scores": {
+      "top": 0.55,
+      "mid": 0.72,
+      "bot": 0.76
+    }
+  },
+  {
+    "frame": 1000,
+    "timestamp_sec": 20.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.68,
+    "bbox": [
+      395,
+      216,
+      1914,
+      900
+    ],
+    "region_scores": {
+      "top": 0.52,
+      "mid": 0.75,
+      "bot": 0.78
+    }
+  },
+  {
+    "frame": 1010,
+    "timestamp_sec": 20.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.99,
+    "bbox": [
+      390,
+      216,
+      1918,
+      921
+    ],
+    "region_scores": {
+      "top": 0.89,
+      "mid": 1.04,
+      "bot": 1.03
+    }
+  },
+  {
+    "frame": 1020,
+    "timestamp_sec": 20.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.94,
+    "bbox": [
+      392,
+      221,
+      1919,
+      916
+    ],
+    "region_scores": {
+      "top": 0.78,
+      "mid": 0.98,
+      "bot": 1.06
+    }
+  },
+  {
+    "frame": 1030,
+    "timestamp_sec": 20.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.97,
+    "bbox": [
+      399,
+      233,
+      1922,
+      976
+    ],
+    "region_scores": {
+      "top": 0.91,
+      "mid": 0.96,
+      "bot": 1.04
+    }
+  },
+  {
+    "frame": 1040,
+    "timestamp_sec": 20.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.76,
+    "bbox": [
+      400,
+      230,
+      1923,
+      915
+    ],
+    "region_scores": {
+      "top": 0.58,
+      "mid": 0.82,
+      "bot": 0.86
+    }
+  },
+  {
+    "frame": 1050,
+    "timestamp_sec": 21.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.87,
+    "bbox": [
+      380,
+      228,
+      1915,
+      915
+    ],
+    "region_scores": {
+      "top": 0.69,
+      "mid": 0.94,
+      "bot": 0.98
+    }
+  },
+  {
+    "frame": 1060,
+    "timestamp_sec": 21.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.86,
+    "bbox": [
+      394,
+      232,
+      1902,
+      904
+    ],
+    "region_scores": {
+      "top": 0.76,
+      "mid": 0.87,
+      "bot": 0.94
+    }
+  },
+  {
+    "frame": 1070,
+    "timestamp_sec": 21.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.86,
+    "bbox": [
+      372,
+      227,
+      1910,
+      895
+    ],
+    "region_scores": {
+      "top": 0.81,
+      "mid": 0.88,
+      "bot": 0.89
+    }
+  },
+  {
+    "frame": 1080,
+    "timestamp_sec": 21.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.75,
+    "bbox": [
+      385,
+      234,
+      1918,
+      907
+    ],
+    "region_scores": {
+      "top": 0.78,
+      "mid": 0.73,
+      "bot": 0.74
+    }
+  },
+  {
+    "frame": 1090,
+    "timestamp_sec": 21.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.71,
+    "bbox": [
+      410,
+      233,
+      1898,
+      915
+    ],
+    "region_scores": {
+      "top": 0.71,
+      "mid": 0.67,
+      "bot": 0.73
+    }
+  },
+  {
+    "frame": 1100,
+    "timestamp_sec": 22.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.94,
+    "bbox": [
+      440,
+      228,
+      1865,
+      887
+    ],
+    "region_scores": {
+      "top": 1.07,
+      "mid": 0.88,
+      "bot": 0.86
+    }
+  },
+  {
+    "frame": 1110,
+    "timestamp_sec": 22.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.86,
+    "bbox": [
+      423,
+      216,
+      1913,
+      907
+    ],
+    "region_scores": {
+      "top": 0.92,
+      "mid": 0.79,
+      "bot": 0.86
+    }
+  },
+  {
+    "frame": 1120,
+    "timestamp_sec": 22.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.8,
+    "bbox": [
+      434,
+      219,
+      1860,
+      886
+    ],
+    "region_scores": {
+      "top": 0.87,
+      "mid": 0.76,
+      "bot": 0.78
+    }
+  },
+  {
+    "frame": 1130,
+    "timestamp_sec": 22.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.8,
+    "bbox": [
+      401,
+      210,
+      1857,
+      900
+    ],
+    "region_scores": {
+      "top": 0.79,
+      "mid": 0.79,
+      "bot": 0.81
+    }
+  },
+  {
+    "frame": 1140,
+    "timestamp_sec": 22.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.82,
+    "bbox": [
+      407,
+      219,
+      1874,
+      874
+    ],
+    "region_scores": {
+      "top": 0.84,
+      "mid": 0.81,
+      "bot": 0.8
+    }
+  },
+  {
+    "frame": 1150,
+    "timestamp_sec": 23.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.73,
+    "bbox": [
+      437,
+      207,
+      1918,
+      895
+    ],
+    "region_scores": {
+      "top": 0.63,
+      "mid": 0.76,
+      "bot": 0.8
+    }
+  },
+  {
+    "frame": 1160,
+    "timestamp_sec": 23.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.83,
+    "bbox": [
+      361,
+      207,
+      1911,
+      839
+    ],
+    "region_scores": {
+      "top": 0.66,
+      "mid": 0.88,
+      "bot": 0.94
+    }
+  },
+  {
+    "frame": 1180,
+    "timestamp_sec": 23.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DIGGING",
+    "is_active": true,
+    "motion_score": 0.82,
+    "bbox": [
+      421,
+      211,
+      1954,
+      904
+    ],
+    "region_scores": {
+      "top": 0.73,
+      "mid": 0.85,
+      "bot": 0.89
+    }
+  },
+  {
+    "frame": 1190,
+    "timestamp_sec": 23.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.87,
+    "bbox": [
+      320,
+      207,
+      1916,
+      904
+    ],
+    "region_scores": {
+      "top": 0.68,
+      "mid": 0.93,
+      "bot": 1.01
+    }
+  },
+  {
+    "frame": 1200,
+    "timestamp_sec": 24.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.97,
+    "bbox": [
+      340,
+      212,
+      1887,
+      899
+    ],
+    "region_scores": {
+      "top": 0.85,
+      "mid": 0.97,
+      "bot": 1.09
+    }
+  },
+  {
+    "frame": 1210,
+    "timestamp_sec": 24.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.85,
+    "bbox": [
+      341,
+      210,
+      1889,
+      846
+    ],
+    "region_scores": {
+      "top": 0.72,
+      "mid": 0.82,
+      "bot": 1.02
+    }
+  },
+  {
+    "frame": 1220,
+    "timestamp_sec": 24.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.95,
+    "bbox": [
+      343,
+      206,
+      1884,
+      880
+    ],
+    "region_scores": {
+      "top": 0.74,
+      "mid": 0.93,
+      "bot": 1.18
+    }
+  },
+  {
+    "frame": 1230,
+    "timestamp_sec": 24.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.05,
+    "bbox": [
+      367,
+      204,
+      1898,
+      893
+    ],
+    "region_scores": {
+      "top": 0.79,
+      "mid": 0.98,
+      "bot": 1.38
+    }
+  },
+  {
+    "frame": 1240,
+    "timestamp_sec": 24.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.92,
+    "bbox": [
+      369,
+      205,
+      1891,
+      870
+    ],
+    "region_scores": {
+      "top": 0.64,
+      "mid": 0.86,
+      "bot": 1.25
+    }
+  },
+  {
+    "frame": 1250,
+    "timestamp_sec": 25.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.95,
+    "bbox": [
+      398,
+      211,
+      1861,
+      841
+    ],
+    "region_scores": {
+      "top": 0.97,
+      "mid": 0.79,
+      "bot": 1.09
+    }
+  },
+  {
+    "frame": 1260,
+    "timestamp_sec": 25.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.95,
+    "bbox": [
+      418,
+      190,
+      1935,
+      908
+    ],
+    "region_scores": {
+      "top": 0.83,
+      "mid": 0.84,
+      "bot": 1.2
+    }
+  },
+  {
+    "frame": 1270,
+    "timestamp_sec": 25.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.86,
+    "bbox": [
+      459,
+      190,
+      1923,
+      817
+    ],
+    "region_scores": {
+      "top": 0.77,
+      "mid": 0.74,
+      "bot": 1.07
+    }
+  },
+  {
+    "frame": 1280,
+    "timestamp_sec": 25.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.9,
+    "bbox": [
+      455,
+      182,
+      1853,
+      808
+    ],
+    "region_scores": {
+      "top": 0.94,
+      "mid": 0.65,
+      "bot": 1.11
+    }
+  },
+  {
+    "frame": 1290,
+    "timestamp_sec": 25.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.91,
+    "bbox": [
+      445,
+      174,
+      1893,
+      820
+    ],
+    "region_scores": {
+      "top": 0.96,
+      "mid": 0.64,
+      "bot": 1.13
+    }
+  },
+  {
+    "frame": 1300,
+    "timestamp_sec": 26.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.94,
+    "bbox": [
+      440,
+      161,
+      1910,
+      806
+    ],
+    "region_scores": {
+      "top": 1.0,
+      "mid": 0.71,
+      "bot": 1.11
+    }
+  },
+  {
+    "frame": 1310,
+    "timestamp_sec": 26.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.88,
+    "bbox": [
+      430,
+      128,
+      1895,
+      758
+    ],
+    "region_scores": {
+      "top": 0.85,
+      "mid": 0.65,
+      "bot": 1.14
+    }
+  },
+  {
+    "frame": 1320,
+    "timestamp_sec": 26.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.85,
+    "bbox": [
+      387,
+      96,
+      1874,
+      781
+    ],
+    "region_scores": {
+      "top": 0.67,
+      "mid": 0.76,
+      "bot": 1.13
+    }
+  },
+  {
+    "frame": 1330,
+    "timestamp_sec": 26.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.96,
+    "bbox": [
+      413,
+      70,
+      1877,
+      816
+    ],
+    "region_scores": {
+      "top": 0.42,
+      "mid": 0.99,
+      "bot": 1.47
+    }
+  },
+  {
+    "frame": 1340,
+    "timestamp_sec": 26.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.11,
+    "bbox": [
+      402,
+      66,
+      1863,
+      806
+    ],
+    "region_scores": {
+      "top": 0.49,
+      "mid": 1.22,
+      "bot": 1.61
+    }
+  },
+  {
+    "frame": 1350,
+    "timestamp_sec": 27.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.25,
+    "bbox": [
+      365,
+      64,
+      1912,
+      836
+    ],
+    "region_scores": {
+      "top": 0.57,
+      "mid": 1.29,
+      "bot": 1.89
+    }
+  },
+  {
+    "frame": 1360,
+    "timestamp_sec": 27.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.43,
+    "bbox": [
+      415,
+      57,
+      1916,
+      934
+    ],
+    "region_scores": {
+      "top": 0.6,
+      "mid": 1.47,
+      "bot": 2.23
+    }
+  },
+  {
+    "frame": 1370,
+    "timestamp_sec": 27.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.14,
+    "bbox": [
+      347,
+      72,
+      1926,
+      859
+    ],
+    "region_scores": {
+      "top": 0.49,
+      "mid": 1.16,
+      "bot": 1.77
+    }
+  },
+  {
+    "frame": 1380,
+    "timestamp_sec": 27.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.13,
+    "bbox": [
+      381,
+      80,
+      1861,
+      872
+    ],
+    "region_scores": {
+      "top": 0.51,
+      "mid": 1.13,
+      "bot": 1.76
+    }
+  },
+  {
+    "frame": 1390,
+    "timestamp_sec": 27.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.11,
+    "bbox": [
+      386,
+      78,
+      1892,
+      904
+    ],
+    "region_scores": {
+      "top": 0.52,
+      "mid": 1.06,
+      "bot": 1.76
+    }
+  },
+  {
+    "frame": 1400,
+    "timestamp_sec": 28.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.11,
+    "bbox": [
+      399,
+      74,
+      1894,
+      957
+    ],
+    "region_scores": {
+      "top": 0.52,
+      "mid": 1.01,
+      "bot": 1.8
+    }
+  },
+  {
+    "frame": 1410,
+    "timestamp_sec": 28.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.25,
+    "bbox": [
+      407,
+      57,
+      1881,
+      1039
+    ],
+    "region_scores": {
+      "top": 0.52,
+      "mid": 1.15,
+      "bot": 2.07
+    }
+  },
+  {
+    "frame": 1420,
+    "timestamp_sec": 28.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.31,
+    "bbox": [
+      381,
+      62,
+      1883,
+      1079
+    ],
+    "region_scores": {
+      "top": 0.62,
+      "mid": 1.21,
+      "bot": 2.09
+    }
+  },
+  {
+    "frame": 1430,
+    "timestamp_sec": 28.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.31,
+    "bbox": [
+      364,
+      64,
+      1860,
+      1076
+    ],
+    "region_scores": {
+      "top": 0.67,
+      "mid": 1.2,
+      "bot": 2.06
+    }
+  },
+  {
+    "frame": 1440,
+    "timestamp_sec": 28.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.32,
+    "bbox": [
+      402,
+      70,
+      1885,
+      1071
+    ],
+    "region_scores": {
+      "top": 0.74,
+      "mid": 1.22,
+      "bot": 1.98
+    }
+  },
+  {
+    "frame": 1450,
+    "timestamp_sec": 29.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.52,
+    "bbox": [
+      439,
+      40,
+      1650,
+      993
+    ],
+    "region_scores": {
+      "top": 0.96,
+      "mid": 1.38,
+      "bot": 2.22
+    }
+  },
+  {
+    "frame": 1460,
+    "timestamp_sec": 29.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.6,
+    "bbox": [
+      460,
+      31,
+      1767,
+      1081
+    ],
+    "region_scores": {
+      "top": 0.91,
+      "mid": 1.43,
+      "bot": 2.45
+    }
+  },
+  {
+    "frame": 1470,
+    "timestamp_sec": 29.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.76,
+    "bbox": [
+      496,
+      14,
+      1688,
+      1080
+    ],
+    "region_scores": {
+      "top": 0.88,
+      "mid": 1.45,
+      "bot": 2.95
+    }
+  },
+  {
+    "frame": 1480,
+    "timestamp_sec": 29.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.85,
+    "bbox": [
+      511,
+      30,
+      1652,
+      1098
+    ],
+    "region_scores": {
+      "top": 0.88,
+      "mid": 1.6,
+      "bot": 3.12
+    }
+  },
+  {
+    "frame": 1490,
+    "timestamp_sec": 29.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.9,
+    "bbox": [
+      535,
+      49,
+      1577,
+      1098
+    ],
+    "region_scores": {
+      "top": 0.89,
+      "mid": 1.73,
+      "bot": 3.15
+    }
+  },
+  {
+    "frame": 1500,
+    "timestamp_sec": 30.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.72,
+    "bbox": [
+      554,
+      61,
+      1600,
+      1100
+    ],
+    "region_scores": {
+      "top": 0.8,
+      "mid": 1.5,
+      "bot": 2.93
+    }
+  },
+  {
+    "frame": 1510,
+    "timestamp_sec": 30.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.79,
+    "bbox": [
+      549,
+      66,
+      1359,
+      880
+    ],
+    "region_scores": {
+      "top": 1.01,
+      "mid": 1.69,
+      "bot": 2.65
+    }
+  },
+  {
+    "frame": 1520,
+    "timestamp_sec": 30.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.91,
+    "bbox": [
+      567,
+      107,
+      1405,
+      1117
+    ],
+    "region_scores": {
+      "top": 0.96,
+      "mid": 1.97,
+      "bot": 2.91
+    }
+  },
+  {
+    "frame": 1530,
+    "timestamp_sec": 30.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.1,
+    "bbox": [
+      588,
+      89,
+      1224,
+      901
+    ],
+    "region_scores": {
+      "top": 1.12,
+      "mid": 2.1,
+      "bot": 3.08
+    }
+  },
+  {
+    "frame": 1540,
+    "timestamp_sec": 30.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.2,
+    "bbox": [
+      603,
+      97,
+      1159,
+      900
+    ],
+    "region_scores": {
+      "top": 1.21,
+      "mid": 2.23,
+      "bot": 3.17
+    }
+  },
+  {
+    "frame": 1550,
+    "timestamp_sec": 31.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.15,
+    "bbox": [
+      616,
+      96,
+      1090,
+      872
+    ],
+    "region_scores": {
+      "top": 1.13,
+      "mid": 2.04,
+      "bot": 3.25
+    }
+  },
+  {
+    "frame": 1560,
+    "timestamp_sec": 31.2,
+    "equipment_id": "wheel loader_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.09,
+    "bbox": [
+      685,
+      91,
+      1096,
+      865
+    ],
+    "region_scores": {
+      "top": 1.02,
+      "mid": 1.88,
+      "bot": 3.36
+    }
+  },
+  {
+    "frame": 1560,
+    "timestamp_sec": 31.2,
+    "equipment_id": "wheel loader_4",
+    "equipment_label": "wheel loader",
+    "confidence": 0.97,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.64,
+    "bbox": [
+      712,
+      819,
+      1910,
+      1080
+    ],
+    "region_scores": {
+      "top": 1.7,
+      "mid": 2.99,
+      "bot": 3.21
+    }
+  },
+  {
+    "frame": 1570,
+    "timestamp_sec": 31.4,
+    "equipment_id": "wheel loader_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.87,
+    "bbox": [
+      713,
+      112,
+      1083,
+      891
+    ],
+    "region_scores": {
+      "top": 1.09,
+      "mid": 1.8,
+      "bot": 2.71
+    }
+  },
+  {
+    "frame": 1570,
+    "timestamp_sec": 31.4,
+    "equipment_id": "wheel loader_4",
+    "equipment_label": "wheel loader",
+    "confidence": 0.89,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 3.02,
+    "bbox": [
+      730,
+      826,
+      1912,
+      1080
+    ],
+    "region_scores": {
+      "top": 2.08,
+      "mid": 3.39,
+      "bot": 3.57
+    }
+  },
+  {
+    "frame": 1580,
+    "timestamp_sec": 31.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.23,
+    "bbox": [
+      743,
+      123,
+      1146,
+      1078
+    ],
+    "region_scores": {
+      "top": 0.94,
+      "mid": 2.19,
+      "bot": 3.54
+    }
+  },
+  {
+    "frame": 1590,
+    "timestamp_sec": 31.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.06,
+    "bbox": [
+      722,
+      97,
+      1173,
+      1083
+    ],
+    "region_scores": {
+      "top": 0.8,
+      "mid": 1.76,
+      "bot": 3.63
+    }
+  },
+  {
+    "frame": 1600,
+    "timestamp_sec": 32.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.93,
+    "bbox": [
+      659,
+      120,
+      1188,
+      1082
+    ],
+    "region_scores": {
+      "top": 0.64,
+      "mid": 1.61,
+      "bot": 3.55
+    }
+  },
+  {
+    "frame": 1610,
+    "timestamp_sec": 32.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.81,
+    "bbox": [
+      605,
+      124,
+      1203,
+      1076
+    ],
+    "region_scores": {
+      "top": 0.53,
+      "mid": 1.47,
+      "bot": 3.41
+    }
+  },
+  {
+    "frame": 1620,
+    "timestamp_sec": 32.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.34,
+    "bbox": [
+      616,
+      132,
+      1182,
+      914
+    ],
+    "region_scores": {
+      "top": 0.42,
+      "mid": 1.19,
+      "bot": 2.39
+    }
+  },
+  {
+    "frame": 1630,
+    "timestamp_sec": 32.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.58,
+    "bbox": [
+      487,
+      144,
+      1208,
+      1043
+    ],
+    "region_scores": {
+      "top": 0.45,
+      "mid": 0.92,
+      "bot": 3.36
+    }
+  },
+  {
+    "frame": 1640,
+    "timestamp_sec": 32.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 1.98,
+    "bbox": [
+      482,
+      144,
+      1209,
+      1075
+    ],
+    "region_scores": {
+      "top": 0.79,
+      "mid": 1.55,
+      "bot": 3.61
+    }
+  },
+  {
+    "frame": 1650,
+    "timestamp_sec": 33.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.01,
+    "bbox": [
+      425,
+      141,
+      1185,
+      1072
+    ],
+    "region_scores": {
+      "top": 0.82,
+      "mid": 1.91,
+      "bot": 3.28
+    }
+  },
+  {
+    "frame": 1660,
+    "timestamp_sec": 33.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.13,
+    "bbox": [
+      385,
+      135,
+      1183,
+      1058
+    ],
+    "region_scores": {
+      "top": 0.84,
+      "mid": 2.21,
+      "bot": 3.34
+    }
+  },
+  {
+    "frame": 1670,
+    "timestamp_sec": 33.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.1,
+    "bbox": [
+      350,
+      118,
+      1204,
+      1024
+    ],
+    "region_scores": {
+      "top": 0.79,
+      "mid": 2.25,
+      "bot": 3.25
+    }
+  },
+  {
+    "frame": 1680,
+    "timestamp_sec": 33.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.22,
+    "bbox": [
+      349,
+      106,
+      1227,
+      1002
+    ],
+    "region_scores": {
+      "top": 0.95,
+      "mid": 2.5,
+      "bot": 3.22
+    }
+  },
+  {
+    "frame": 1690,
+    "timestamp_sec": 33.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.17,
+    "bbox": [
+      368,
+      70,
+      1233,
+      1021
+    ],
+    "region_scores": {
+      "top": 0.99,
+      "mid": 2.5,
+      "bot": 3.02
+    }
+  },
+  {
+    "frame": 1700,
+    "timestamp_sec": 34.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 2.08,
+    "bbox": [
+      367,
+      76,
+      1257,
+      947
+    ],
+    "region_scores": {
+      "top": 0.94,
+      "mid": 2.37,
+      "bot": 2.92
+    }
+  },
+  {
+    "frame": 1710,
+    "timestamp_sec": 34.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.98,
+    "bbox": [
+      374,
+      31,
+      1308,
+      1060
+    ],
+    "region_scores": {
+      "top": 0.18,
+      "mid": 1.19,
+      "bot": 1.56
+    }
+  },
+  {
+    "frame": 1720,
+    "timestamp_sec": 34.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.56,
+    "bbox": [
+      368,
+      21,
+      1288,
+      1069
+    ],
+    "region_scores": {
+      "top": 0.4,
+      "mid": 0.55,
+      "bot": 0.74
+    }
+  },
+  {
+    "frame": 1730,
+    "timestamp_sec": 34.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.72,
+    "bbox": [
+      375,
+      44,
+      1269,
+      903
+    ],
+    "region_scores": {
+      "top": 0.62,
+      "mid": 0.73,
+      "bot": 0.79
+    }
+  },
+  {
+    "frame": 1740,
+    "timestamp_sec": 34.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 0.51,
+    "bbox": [
+      368,
+      73,
+      1271,
+      884
+    ],
+    "region_scores": {
+      "top": 0.4,
+      "mid": 0.56,
+      "bot": 0.57
+    }
+  },
+  {
+    "frame": 1750,
+    "timestamp_sec": 35.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.53,
+    "bbox": [
+      361,
+      89,
+      1271,
+      880
+    ],
+    "region_scores": {
+      "top": 0.23,
+      "mid": 0.99,
+      "bot": 0.37
+    }
+  },
+  {
+    "frame": 1760,
+    "timestamp_sec": 35.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.41,
+    "bbox": [
+      368,
+      93,
+      1192,
+      873
+    ],
+    "region_scores": {
+      "top": 0.18,
+      "mid": 0.61,
+      "bot": 0.44
+    }
+  },
+  {
+    "frame": 1770,
+    "timestamp_sec": 35.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.54,
+    "bbox": [
+      364,
+      91,
+      1314,
+      862
+    ],
+    "region_scores": {
+      "top": 0.41,
+      "mid": 0.78,
+      "bot": 0.42
+    }
+  },
+  {
+    "frame": 1780,
+    "timestamp_sec": 35.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "IDLE",
+    "is_active": false,
+    "motion_score": 0.37,
+    "bbox": [
+      369,
+      96,
+      1257,
+      860
+    ],
+    "region_scores": {
+      "top": 0.29,
+      "mid": 0.44,
+      "bot": 0.38
+    }
+  },
+  {
+    "frame": 1790,
+    "timestamp_sec": 35.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.62,
+    "bbox": [
+      384,
+      97,
+      1195,
+      863
+    ],
+    "region_scores": {
+      "top": 0.28,
+      "mid": 1.06,
+      "bot": 0.52
+    }
+  },
+  {
+    "frame": 1800,
+    "timestamp_sec": 36.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.97,
+    "bbox": [
+      387,
+      102,
+      1279,
+      859
+    ],
+    "region_scores": {
+      "top": 0.61,
+      "mid": 1.84,
+      "bot": 0.45
+    }
+  },
+  {
+    "frame": 1810,
+    "timestamp_sec": 36.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 0.76,
+    "bbox": [
+      389,
+      93,
+      1292,
+      856
+    ],
+    "region_scores": {
+      "top": 0.53,
+      "mid": 1.2,
+      "bot": 0.55
+    }
+  },
+  {
+    "frame": 1820,
+    "timestamp_sec": 36.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.51,
+    "bbox": [
+      390,
+      89,
+      1294,
+      846
+    ],
+    "region_scores": {
+      "top": 0.29,
+      "mid": 0.65,
+      "bot": 0.59
+    }
+  },
+  {
+    "frame": 1830,
+    "timestamp_sec": 36.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.59,
+    "bbox": [
+      402,
+      71,
+      1286,
+      861
+    ],
+    "region_scores": {
+      "top": 0.3,
+      "mid": 0.98,
+      "bot": 0.5
+    }
+  },
+  {
+    "frame": 1840,
+    "timestamp_sec": 36.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "ACTIVE",
+    "is_active": true,
+    "motion_score": 0.68,
+    "bbox": [
+      414,
+      62,
+      1261,
+      885
+    ],
+    "region_scores": {
+      "top": 0.35,
+      "mid": 1.09,
+      "bot": 0.6
+    }
+  },
+  {
+    "frame": 1850,
+    "timestamp_sec": 37.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.74,
+    "bbox": [
+      424,
+      61,
+      1244,
+      872
+    ],
+    "region_scores": {
+      "top": 0.44,
+      "mid": 1.16,
+      "bot": 0.63
+    }
+  },
+  {
+    "frame": 1860,
+    "timestamp_sec": 37.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 0.92,
+    "bbox": [
+      477,
+      51,
+      1197,
+      864
+    ],
+    "region_scores": {
+      "top": 0.57,
+      "mid": 1.49,
+      "bot": 0.7
+    }
+  },
+  {
+    "frame": 1870,
+    "timestamp_sec": 37.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "DUMPING",
+    "is_active": true,
+    "motion_score": 1.08,
+    "bbox": [
+      471,
+      46,
+      1183,
+      838
+    ],
+    "region_scores": {
+      "top": 0.77,
+      "mid": 1.83,
+      "bot": 0.62
+    }
+  },
+  {
+    "frame": 1880,
+    "timestamp_sec": 37.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.23,
+    "bbox": [
+      479,
+      28,
+      1155,
+      853
+    ],
+    "region_scores": {
+      "top": 0.99,
+      "mid": 1.93,
+      "bot": 0.77
+    }
+  },
+  {
+    "frame": 1890,
+    "timestamp_sec": 37.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.24,
+    "bbox": [
+      494,
+      6,
+      1123,
+      847
+    ],
+    "region_scores": {
+      "top": 1.06,
+      "mid": 1.98,
+      "bot": 0.67
+    }
+  },
+  {
+    "frame": 1900,
+    "timestamp_sec": 38.0,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.48,
+    "bbox": [
+      497,
+      6,
+      1071,
+      815
+    ],
+    "region_scores": {
+      "top": 1.1,
+      "mid": 2.75,
+      "bot": 0.59
+    }
+  },
+  {
+    "frame": 1910,
+    "timestamp_sec": 38.2,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 1.96,
+    "bbox": [
+      503,
+      12,
+      1019,
+      845
+    ],
+    "region_scores": {
+      "top": 1.67,
+      "mid": 3.81,
+      "bot": 0.44
+    }
+  },
+  {
+    "frame": 1920,
+    "timestamp_sec": 38.4,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 2.16,
+    "bbox": [
+      504,
+      -14,
+      966,
+      899
+    ],
+    "region_scores": {
+      "top": 2.16,
+      "mid": 3.94,
+      "bot": 0.3
+    }
+  },
+  {
+    "frame": 1930,
+    "timestamp_sec": 38.6,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 3.21,
+    "bbox": [
+      536,
+      -5,
+      872,
+      850
+    ],
+    "region_scores": {
+      "top": 3.06,
+      "mid": 6.16,
+      "bot": 0.4
+    }
+  },
+  {
+    "frame": 1940,
+    "timestamp_sec": 38.8,
+    "equipment_id": "excavators_1",
+    "equipment_label": "excavators",
+    "confidence": 1.0,
+    "activity": "SWINGING",
+    "is_active": true,
+    "motion_score": 3.67,
+    "bbox": [
+      464,
+      -2,
+      808,
+      808
+    ],
+    "region_scores": {
+      "top": 3.63,
+      "mid": 6.92,
+      "bot": 0.45
+    }
+  }
+]
