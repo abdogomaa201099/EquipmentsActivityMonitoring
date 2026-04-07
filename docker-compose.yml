@@ -17,6 +17,11 @@ services:
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    healthcheck:
+      test: kafka-broker-api-versions --bootstrap-server localhost:9092
+      interval: 10s
+      timeout: 5s
+      retries: 10
 
   timescaledb:
     image: timescale/timescaledb:latest-pg15
@@ -33,7 +38,8 @@ services:
   cv-service:
     build: ./cv-service
     depends_on:
-      - kafka
+      kafka:
+        condition: service_healthy
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
       VIDEO_SOURCE: ${VIDEO_SOURCE:-/videos/sample.mp4}
@@ -47,7 +53,8 @@ services:
   analytics-service:
     build: ./analytics-service
     depends_on:
-      - kafka
+      kafka:
+        condition: service_healthy
       - timescaledb
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
