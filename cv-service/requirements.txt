@@ -1,0 +1,4 @@
+opencv-python
+inference-sdk
+numpy<2
+kafka-python

@@ -1,0 +1,67 @@
+services:
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+
+  timescaledb:
+    image: timescale/timescaledb:latest-pg15
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: changeme
+      POSTGRES_DB: equipment_tracking
+    ports:
+      - "5432:5432"
+    volumes:
+      - timescale_data:/var/lib/postgresql/data
+      - ./analytics-service/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  cv-service:
+    build: ./cv-service
+    depends_on:
+      - kafka
+    environment:
+      KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      VIDEO_SOURCE: ${VIDEO_SOURCE:-/videos/sample.mp4}
+      ROBOFLOW_API_KEY: ${ROBOFLOW_API_KEY}
+      ROBOFLOW_MODEL_ID: excavators-czvg9/1
+      PYTHONUNBUFFERED: 1
+    volumes:
+      - ./videos:/videos
+      - ./output:/app/output
+
+  analytics-service:
+    build: ./analytics-service
+    depends_on:
+      - kafka
+      - timescaledb
+    environment:
+      KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      DATABASE_URL: postgresql://admin:changeme@timescaledb:5432/equipment_tracking
+      PYTHONUNBUFFERED: 1
+
+  dashboard:
+    build: ./dashboard
+    depends_on:
+      - timescaledb
+    ports:
+      - "8501:8501"
+    environment:
+      DATABASE_URL: postgresql://admin:changeme@timescaledb:5432/equipment_tracking
+
+volumes:
+  timescale_data:

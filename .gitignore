@@ -1,0 +1,16 @@
+# Dependencies
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+
+# Output files
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Video files (too large for git)
+videos/*.mp4
