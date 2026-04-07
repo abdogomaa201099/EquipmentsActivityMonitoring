@@ -55,7 +55,8 @@ services:
     depends_on:
       kafka:
         condition: service_healthy
-      - timescaledb
+      timescaledb:
+        condition: service_started
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
       DATABASE_URL: postgresql://admin:changeme@timescaledb:5432/equipment_tracking
