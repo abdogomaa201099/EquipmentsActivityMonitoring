@@ -2,6 +2,10 @@
 
 Real-time microservices pipeline that processes construction equipment video, tracks utilization states (ACTIVE/INACTIVE), classifies work activities, and streams results through Kafka to a dashboard.
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Architecture
 
 ```
