@@ -21,7 +21,7 @@ KAFKA_GROUP_ID = os.environ.get("KAFKA_GROUP_ID", "analytics-group")
 
 DATABASE_URL = os.environ.get(
     "DATABASE_URL",
-    "postgresql://admin:changeme@localhost:5432/equipment_tracking"
+    "postgresql://admin:test1234@localhost:5432/equipment_tracking"
 )
 
 UTILIZATION_REPORT_EVERY = 50

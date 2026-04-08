@@ -14,3 +14,6 @@ Thumbs.db
 
 # Video files (too large for git)
 videos/*.mp4
+
+# Test folder
+test/

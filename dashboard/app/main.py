@@ -25,7 +25,7 @@ except ImportError:
 # ---------------------------------------------------------------------------
 DATABASE_URL = os.environ.get(
     "DATABASE_URL",
-    "postgresql://admin:changeme@localhost:5432/equipment_tracking"
+    "postgresql://admin:test1234@localhost:5432/equipment_tracking"
 )
 REFRESH_INTERVAL = int(os.environ.get("REFRESH_INTERVAL", "5"))
 
