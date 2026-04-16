@@ -31,12 +31,12 @@ cd EquipmentsActivityMonitoring
 
 Create the `.env` file (PowerShell):
 ```powershell
-Set-Content -Path .env -Value "ROBOFLOW_API_KEY=3GPqFHWy4SNHqmgqGCI6" -Encoding ASCII
+Set-Content -Path .env -Value "ROBOFLOW_API_KEY=your_api_key_here" -Encoding ASCII
 ```
 
 Or on Linux/Mac:
 ```bash
-echo "ROBOFLOW_API_KEY=3GPqFHWy4SNHqmgqGCI6" > .env
+echo "ROBOFLOW_API_KEY=your_api_key_here" > .env
 ```
 
 Place a construction equipment video at `videos/sample.mp4`, then:
